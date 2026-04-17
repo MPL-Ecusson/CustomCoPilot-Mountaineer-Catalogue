@@ -1,0 +1,67 @@
+﻿index,Passed,Groundedness.groundedness.result,Groundedness.groundedness.reason,inputs.chat_input,inputs.truth,inputs.chat_history,inputs.generated_response,index
+1,1-Jan,Pass,"The response provides accurate information but fails to directly and completely answer the query by not identifying the most waterproof tent explicitly, despite the context containing the necessary details.",Which tent is the most waterproof?,The Alpine Explorer Tent has the highest rainfly waterproof rating at 3000m,[],"Choosing the most waterproof tent depends on the materials, design, and intended use. Among tents in the Mountaineer's catalogue, look for models with high waterproof ratings, durable materials, and robust construction. Here are key factors to consider when evaluating waterproof tents:
+
+### **1. Hydrostatic Head Rating**
+The hydrostatic head (HH) rating measures how waterproof the tent's fabric is. A higher HH value indicates better water resistance. For heavy rain, look for tents with an HH rating of at least **3000mm** or more.
+
+### **2. Seam Sealing**
+Ensure the tent has **fully taped or welded seams**, as these prevent water from seeping through stitch holes. Models with factory-sealed seams offer the best protection.
+
+### **3. Rainfly Coverage**
+A full-coverage rainfly offers better waterproofing compared to partial rainflies. Check for a model that completely covers the tent body and reaches close to the ground.
+
+### **4. Floor Material**
+The tent floor should be made from thick, waterproof material, such as **polyurethane-coated nylon** or **polyester**, with a high HH rating (e.g., 5000mm or more). Bathtub-style floors, which extend several inches up the tent walls, provide extra protection.
+
+### **5. Ventilation**
+Ventilation is also crucial for waterproof tents, as it reduces condensation buildup inside during rainstorms.
+
+### **Popular Waterproof Tents in Mountaineer's Catalogue:**
+Here are a couple of highly waterproof options, if included in the current lineup:
+
+1. **Mountaineer StormGuard 3-Season Tent**
+   - **HH Rating:** 5000mm rainfly; 6000mm floor.
+   - **Features:** Full-coverage rainfly, bathtub floor, and factory-sealed seams.
+   - **Use:** Ideal for heavy rain in 3-season conditions.
+
+2. **Mountaineer AlpineShield 4-Season Tent**
+   - **HH Rating:** 4000mm rainfly; 8000mm floor.
+   - **Features:** Double-wall construction, extended vestibules, and reinforced seams.
+   - **Use:** Perfect for extreme weather and high-altitude expeditions.
+
+3. **Mountaineer TrekDry Ultralight Tent**
+   - **HH Rating:** 3000mm rainfly; 5000mm floor.
+   - **Features:** Lightweight design, taped seams, and excellent ventilation.
+   - **Use:** Great for backpacking in wet climates.
+
+If you're unsure or need a recommendation specific to your outdoor plans, feel free to ask for further guidance!",1
+2,1-Jan,Pass,"The RESPONSE does not provide any evaluable information or attempt to answer the QUERY. It simply asks for clarification, which aligns with the definition of a Score of 3.",How much do the TrailWalker Hiking Shoes cost?,The TrailWalker Hiking Shoes are priced at $110,[],"Could you clarify which catalog or product line you're referring to? If you're asking about specific items from a Mountaineer's catalog, please share more details so I can assist you better!",2
+3,0/1,Fail,"The RESPONSE does not relate to the QUERY or provide any relevant information about the color of the TrailBlaze Hiking Pants. It simply repeats the CONTEXT, making it completely unrelated to the QUERY.",What color are the TrailBlaze Hiking Pants?,They are available in Khaki,[],Could you provide more information about the Mountaineer's catalogue or clarify if this is a fictional catalog? I'd be happy to assist with your questions!,3
+4,1-Jan,Pass,"The response is fully grounded in the context, accurately and completely answering the query with all relevant details provided.",What items are available for $75 or less?,"BaseCamp Folding Table, TrailBlaze Hiking Pants, and TrekMaster Camping Chair are available for $75 or less",[],"Here are some Mountaineer catalog items priced at $75 or less:
+
+### Clothing:
+1. **TrailBlaze Hiking Pants** – $65  
+   Available in colors: Forest Green, Slate Gray, and Desert Tan.  
+
+2. **PeakPerformance T-Shirt** – $30  
+   Available in colors: Charcoal, Sky Blue, and Olive.  
+
+3. **Adventure Crew Socks (3-Pack)** – $25  
+   Available in colors: Black, Gray, and Navy.  
+
+### Footwear:
+1. **TrailWalker Hiking Shoes** – $75  
+   Available in colors: Earth Brown and Midnight Black.  
+
+### Gear:
+1. **Summit Daypack (15L)** – $70  
+   Available in colors: Granite Gray and Moss Green.  
+
+2. **Compact Camping Lantern** – $35  
+   Available in colors: Red and Black.  
+
+3. **Insulated Water Bottle (32 oz)** – $40  
+   Available in colors: Stainless Steel and Cobalt Blue.  
+
+Let me know if you'd like more details on any of these items!",4
+5,0/1,Fail,"The response does not address the query and merely repeats the context, making it completely unrelated to the question.",Which items have a warranty of at least two years?,"TrailMaster X4 Tent, Alpine Explorer Tent, and Adventurer Pro Backpack are covered by a two-year warranty",[],Could you provide me with details about the Mountaineer's catalogue? This will help me better assist you in finding items with warranties of at least two years.,5
